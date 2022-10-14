@@ -1,0 +1,11 @@
+submit/*.csv
+submit/model/*.csv
+submit/merge/*.csv
+__pycache__/
+
+data/*
+!data/.gitkeep
+!data/cldr_annotations_derived_zh.xml
+!data/cldr_annotations_zh.xml
+
+outputs/*
