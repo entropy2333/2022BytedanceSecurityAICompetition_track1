@@ -121,6 +121,7 @@ python merge_map_model.py \
   <tbody>
     <tr>
         <td align="center"><a href="http://github.com/entropy2333"><img src="https://avatars.githubusercontent.com/u/40735723?v=4?s=70" width="70px;" alt=" entropy2333"/><br /><sub><b> entropy2333</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/rooki3ray"><img src="https://avatars.githubusercontent.com/u/37974731?v=4?s=70" width="70px;" alt="rooki3ray"/><br /><sub><b> rooki3ray</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
