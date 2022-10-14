@@ -111,3 +111,16 @@ python merge_map_model.py \
 ## Acknowledgements
 
 感谢 [pytorch-lightning](https://github.com/Lightning-AI/lightning) 和 [simpleT5](https://github.com/Shivanandroy/simpleT5)。
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+        <td align="center"><a href="http://github.com/entropy2333"><img src="https://avatars.githubusercontent.com/u/40735723?v=4?s=70" width="70px;" alt=" entropy2333"/><br /><sub><b> entropy2333</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
