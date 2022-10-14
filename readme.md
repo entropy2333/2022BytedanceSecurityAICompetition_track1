@@ -110,7 +110,7 @@ python merge_map_model.py \
 
 ## Acknowledgements
 
-感谢 [pytorch-lightning](https://github.com/Lightning-AI/lightning) 和 [simpleT5](https://github.com/Shivanandroy/simpleT5)。
+感谢 [unicode-org](https://github.com/unicode-org/cldr-json)、[pytorch-lightning](https://github.com/Lightning-AI/lightning) 和 [simpleT5](https://github.com/Shivanandroy/simpleT5)。
 
 ## Contributors
 
