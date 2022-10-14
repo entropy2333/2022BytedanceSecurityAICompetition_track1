@@ -112,6 +112,11 @@ python merge_map_model.py \
 
 感谢 [unicode-org](https://github.com/unicode-org/cldr-json)、[pytorch-lightning](https://github.com/Lightning-AI/lightning) 和 [simpleT5](https://github.com/Shivanandroy/simpleT5)。
 
+## Related Repostories
+
+[2021BytedanceSecurityAICompetition_track1](https://github.com/rooki3ray/2021BytedanceSecurityAICompetition_track1)
+
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
