@@ -1,11 +1,11 @@
-# 字节跳动安全AI挑战赛——Emoji复杂文本识别
+# 2022 字节跳动安全AI挑战赛——Emoji复杂文本识别
 
 团队名称：Anya
 线上得分：0.87730（rank1）
 
 ## 赛题描述
 
-- [比赛地址](https://security.bytedance.com/fe/2022/ai-challenge#/challenge)
+- 比赛地址:[2022 字节跳动安全AI挑战赛](https://security.bytedance.com/fe/2022/ai-challenge#/challenge)
 - 输入：含emoji的文本
 - 输出：正确翻译后的文本
 - 评价指标：BLEU和WER的加权
